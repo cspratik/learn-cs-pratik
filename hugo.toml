@@ -1,0 +1,11 @@
+baseURL = 'https://learn.cspratik.com/'
+languageCode = 'en-us'
+title = 'Learning Center - CS Pratik K Shah'
+
+[module]
+  [[module.imports]]
+    path = "github.com/colinwilson/lotusdocs"
+    disable = false
+  [[module.imports]]
+    path = "github.com/gohugoio/hugo-mod-bootstrap-scss/v5"
+    disable = false
