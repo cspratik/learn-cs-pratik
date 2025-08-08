@@ -1,18 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Learning Center on Learning Center - CS Pratik K Shah</title>
-    <link>http://localhost:63980/docs/</link>
-    <description>Recent content in Learning Center on Learning Center - CS Pratik K Shah</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <atom:link href="http://localhost:63980/docs/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Welcome</title>
-      <link>http://localhost:63980/docs/welcome/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:63980/docs/welcome/</guid>
-      <description>&lt;p&gt;This repository is created for the help of professionals (CS / CA / CMA / Lawyers etc.), corporates, businesses and general public to find all resources required under various corporate laws of India and understanding of many procedures in single place.&lt;/p&gt;&#xA;&lt;p&gt;We have tried to simply the understanding of the Compliance under various Corporate Laws like Companies Act, 2013, Limited Liability Partnership Act, 2008, Trademark Act, 1999, Foreign Exchange Management Act, 1999 etc.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Learning Center on Learning Center - CS Pratik K Shah</title><link>https://learn.cspratik.com/docs/docs/</link><description>Recent content in Learning Center on Learning Center - CS Pratik K Shah</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://learn.cspratik.com/docs/docs/index.xml" rel="self" type="application/rss+xml"/><item><title>Welcome</title><link>https://learn.cspratik.com/docs/docs/welcome/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://learn.cspratik.com/docs/docs/welcome/</guid><description>&lt;p>This repository is created for the help of professionals (CS / CA / CMA / Lawyers etc.), corporates, businesses and general public to find all resources required under various corporate laws of India and understanding of many procedures in single place.&lt;/p>
+&lt;p>We have tried to simply the understanding of the Compliance under various Corporate Laws like Companies Act, 2013, Limited Liability Partnership Act, 2008, Trademark Act, 1999, Foreign Exchange Management Act, 1999 etc.&lt;/p></description></item></channel></rss>

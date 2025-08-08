@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>XBRL on Learning Center - CS Pratik K Shah</title>
+    <link>http://localhost:1313/technical-guide/xbrl/</link>
+    <description>Recent content in XBRL on Learning Center - CS Pratik K Shah</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/technical-guide/xbrl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Applicability of XBRL</title>
+      <link>http://localhost:1313/technical-guide/xbrl/applicability-of-xbrl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/technical-guide/xbrl/applicability-of-xbrl/</guid>
+      <description>&lt;h5 id=&#34;what-is-applicability-of-xbrl-filings-as-per-mca-in-india-xbrl-in-india--applicability-xbrl-filing-in-india--applicability-of-xbrl-applicability-of-filing-financial-statements-in-xbrl-mode&#34;&gt;What is applicability of XBRL filings as per MCA in India? XBRL in India – Applicability. XBRL Filing in India | Applicability of XBRL. Applicability of Filing Financial Statements in XBRL mode.&lt;/h5&gt;&#xA;&lt;p&gt;Below mentioned class of companies shall file their financial statements and other documents under Section 137 of the Companies Act, 2013 with the Registrar in E-form AOC-4 XBRL.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;All public companies &lt;strong&gt;listed&lt;/strong&gt; in the stock exchange in India and &lt;strong&gt;their Indian subsidiaries&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;All companies with a &lt;strong&gt;turnover of Rs 100 crores or more&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;All companies with a &lt;strong&gt;paid up capital of Rs 5 crores or more&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;All the companies which are required to prepare their financial statements in accordance with the Companies (Indian Accounting standards) Rules, 2015.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;However, Non-banking financial companies, Housing finance companies and Companies engaged in the business of Banking and Insurance sector are exempted from filing of financial statements under these rules.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Convert XML file to PDF without XBRL Software</title>
+      <link>http://localhost:1313/technical-guide/xbrl/convert-xml-file-to-pdf-without-xbrl-software/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/technical-guide/xbrl/convert-xml-file-to-pdf-without-xbrl-software/</guid>
+      <description>&lt;h5 id=&#34;you-can-find-here-a-guide-on-how-to-convert-xml-file-of-xbrl-filings-to-pdf-without-xbrl-software-how-to-convert-xbrl-file-to-pdf-how-to-convert-xbrl-financials-to-financials-in-pdf-format-how-to-c&#34;&gt;You can find here a guide on how to convert xml file of XBRL filings to PDF without XBRL software. How to convert XBRL file to PDF? How to convert XBRL Financials to Financials in PDF format? How to c&lt;/h5&gt;&#xA;&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.mca.gov.in/content/mca/global/en/home.html&#34;&gt;Ministry of Corporate Affairs (MCA)&lt;/a&gt; had introduced, in a phase-wise manner, filing of Balance Sheet and Profit and Loss account statements in &lt;a href=&#34;../../docs/technical-guide/xbrl/applicability-of-xbrl&#34;&gt;XBRL&lt;/a&gt; which shall be done by &lt;a href=&#34;../../docs/technical-guide/xbrl/applicability-of-xbrl&#34;&gt;specified companies&lt;/a&gt; from Financial Year 2011-12 onwards through filing of Form AOC-4 XBRL.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

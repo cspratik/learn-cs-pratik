@@ -1,4 +1,6 @@
-baseURL = 'https://learn.cspratik.com/'
+baseURL = 'https://learn.cspratik.com/docs'
+relativeURLs = false
+uglyURLs = false
 languageCode = 'en-us'
 title = 'Learning Center - CS Pratik K Shah'
 
