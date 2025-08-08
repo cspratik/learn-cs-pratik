@@ -2,7 +2,7 @@
   publish = "public/docs"
   command = "hugo --gc --minify"
 [build.environment]
-  HUGO_VERSION = "0.148.2"  # Replace with your local Hugo version (run `hugo version`)
+  HUGO_VERSION = "0.148.0"  # Replace with your local Hugo version (run `hugo version`)
 
 [[redirects]]
   from = "/css/*"
@@ -19,6 +19,10 @@
 [[redirects]]
   from = "/site.webmanifest"
   to = "/docs/site.webmanifest"
+  status = 200
+[[redirects]]
+  from = "/favicon.*"
+  to = "/docs/favicon.:splat"
   status = 200
 [[headers]]
   for = "/site.webmanifest"
