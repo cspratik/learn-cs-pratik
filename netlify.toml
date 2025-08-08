@@ -1,6 +1,6 @@
 [build]
   publish = "public"
-  command = "hugo --gc --minify --baseURL $https://www.cspratik.com"
+  hugo --gc --minify --baseURL $DEPLOY_PRIME_URL
   
 [build.environment]
   HUGO_VERSION = "0.148.2"  # Replace with your local Hugo version (run `hugo version`)
