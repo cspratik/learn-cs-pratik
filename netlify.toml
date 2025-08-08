@@ -1,0 +1,18 @@
+[build]
+  publish = "public/docs"
+  command = "hugo --gc --minify"
+[build.environment]
+  HUGO_VERSION = "0.148.0"  # Replace with your Hugo version
+
+[[redirects]]
+  from = "/css/*"
+  to = "/docs/css/:splat"
+  status = 200
+[[redirects]]
+  from = "/js/*"
+  to = "/docs/js/:splat"
+  status = 200
+[[redirects]]
+  from = "/images/*"
+  to = "/docs/images/:splat"
+  status = 200
