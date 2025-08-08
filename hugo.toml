@@ -1,4 +1,4 @@
-baseURL = 'https://learn.cspratik.com/docs'
+baseURL = 'https://learn.cspratik.com'
 relativeURLs = false
 uglyURLs = false
 languageCode = 'en-us'
