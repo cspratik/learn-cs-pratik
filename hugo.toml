@@ -3,6 +3,8 @@ languageCode = 'en-us'
 title = 'Learning Center - CS Pratik K Shah'
 contentDir= "content"
 theme = "lotusdocs"
+relativeURLs = true
+canonifyURLs = true
 
 [module]
   [[module.imports]]
