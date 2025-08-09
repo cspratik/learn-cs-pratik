@@ -1,0 +1,44 @@
+# Note: Template blocks require a 'weight' parameter so they're correctly ordered on the landing page
+
+# Hero
+hero:
+  enable: true
+  weight: 10
+  template: hero
+
+  backgroundImage:
+    path: "images/templates/hero"
+    filename:
+      desktop: "gradient-desktop.webp"
+      mobile: "gradient-mobile.webp"
+
+  badge:
+    text: Pratik K Shah, Practicing Company Secretaries
+    color: primary # primary, secondary, success, danger, warning, info, light, dark
+    pill: false # boolean
+    soft: true # boolean
+
+  titleLogo:
+    path: "images/logos"
+    filename: "title_logo.png"
+    alt: "CS Pratik Logo"
+    height: 80px
+
+  title: "Learning Center"
+  subtitle: This repository is created for the help of professionals (CS / CA / CMA / Lawyers etc.), corporates, businesses and general public to find all resources required under various corporate laws of India and understanding of many procedures in single place.
+
+  image:
+    path: "images" # path to image under configured assets directory. default 'images'
+    filename: "lotus_docs_screenshot.png" # filename of your hero image (including file extension)
+    alt: "Lotus Docs Screenshot" # Optional but recommended
+    boxShadow: true # default 'false' (excludes .svg images)
+    rounded: true # round the image corners? default 'false' (excludes .svg images)
+
+  ctaButton:
+    icon: rocket_launch
+    btnText: "Get Started"
+    url: "/docs/welcome"
+  cta2Button:
+    icon: web
+    btnText: "Our Website"
+    url: "https:www.cspratik.com"
