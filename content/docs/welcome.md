@@ -29,3 +29,9 @@ If you can't find what you need here, kindly fill up this form and let us know w
 We have also added everything about Trademark including description of each and every classes of trademark with a search facility.
 
 {{< alert context="info" text="You can search for any trademark class using 🔍 Search option given in top of this page" />}}
+
+## ⚠️ Disclaimer
+
+All the information contained in this Website are prepared and written by [**Pratik K Shah**](https://www.linkedin.com/in/cspratik/), Practicing Company Secretaries (“Author”) who is intended to provide general information on a particular subject or subjects and is not an exhaustive treatment of such subject(s). Author is not, by means of this website, rendering professional advice or services. While every care has been taken in the providing information in this Website, it may contain inadvertent errors for which Author shall not be held responsible. The information is not intended to be relied upon as the sole basis for any decision which may affect you or your business. Author shall not be responsible for any loss whatsoever sustained by any person who relies on this material.
+
+Further, this Website is not intended for advertisement and/or solicitation of work.
