@@ -5,7 +5,7 @@ layout: docs
 ---
 ##### How to download, install and activate emSigner for Ministry of Corporate Affairs?
 
-{{< alert context="danger" text="**UPDATE:** Ministry of Corporate Affairs has introduced new Portal for LLP filings and Company filings. [**You can click on this link for Step-by-Step Guide on how to register DSC on MCA V3 Portal.**](technical-guide/mca-website/digital-siganture-on-mca/register-digital-signature-on-mca-v3-portal/)" />}}
+{{< alert context="danger" text="**UPDATE:** Ministry of Corporate Affairs has introduced new Portal for LLP filings and Company filings. [**You can click on this link for Step-by-Step Guide on how to register DSC on MCA V3 Portal.**](/technical-guide/mca-website/digital-siganture-on-mca/register-digital-signature-on-mca-v3-portal/)" />}}
 
 Ministry of Corporate Affairs (MCA) has mandated the stakeholders to install emSigner for registering Digital Signature of users on MCA. You can find below step by step procedure to download, install and activate emSigner on your computer for registering Digital Signature Certificate (DSC) on MCA website.
 
