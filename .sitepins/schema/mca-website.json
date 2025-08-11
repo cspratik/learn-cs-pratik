@@ -1,0 +1,29 @@
+{
+  "file": "content/docs/technical-guide/mca-website/_index.md",
+  "name": "mca-website",
+  "fileType": "md",
+  "fmType": "yaml",
+  "template": [
+    {
+      "label": "Title",
+      "name": "title",
+      "type": "string",
+      "value": "",
+      "isRequired": true
+    },
+    {
+      "label": "Weight",
+      "name": "weight",
+      "type": "number",
+      "value": 0,
+      "isRequired": true
+    },
+    {
+      "label": "Layout",
+      "name": "layout",
+      "type": "string",
+      "value": "",
+      "isRequired": true
+    }
+  ]
+}
