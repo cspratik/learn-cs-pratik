@@ -1,6 +1,6 @@
 baseURL = "https://www.cspratik.com/"
 canonifyURLs = true
-relativeURLs = false
+relativeURLs = true
 languageCode = 'en-us'
 title = 'Learning Center - CS Pratik K Shah'
 
