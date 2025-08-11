@@ -1,0 +1,15 @@
+{
+  "media": {
+    "root": "assets/images",
+    "public": "assets"
+  },
+  "content": {
+    "root": "content"
+  },
+  "themeConfig": [
+    "hugo.toml",
+    "netlify.toml"
+  ],
+  "arrangement": [],
+  "showCommitModal": true
+}
