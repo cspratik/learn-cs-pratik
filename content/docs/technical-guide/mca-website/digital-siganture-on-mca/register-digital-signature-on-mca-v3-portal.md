@@ -12,7 +12,7 @@ Ministry of Corporate Affairs has introduced new Portal for LLP filings and Comp
 
 We have created step-by-step guide on how to register DSC for Director on MCA V3 (New) portal.
 
-{{< alert context="info" text="Please note that, you have to first [create an account on MCA V3](technical-guide/mca-website/digital-siganture-on-mca/register-digital-signature-on-mca-v3-portal/) before registering Digital Signature on MCA V3 Portal." />}}
+{{< alert context="info" text="Please note that, you have to first [create an account on MCA V3](/docs/technical-guide/mca-website/digital-siganture-on-mca/register-digital-signature-on-mca-v3-portal/) before registering Digital Signature on MCA V3 Portal." />}}
 
 1. Login to the MCA V3 Portal.
 
