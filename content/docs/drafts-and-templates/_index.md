@@ -1,5 +1,5 @@
 ---
-title: "Drafts and Templates"
+title: "📄Drafts and Templates"
 weight: 300
 layout: docs
 ---

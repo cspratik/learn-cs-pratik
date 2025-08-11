@@ -1,5 +1,5 @@
 ---
-title: "Other Resources"
+title: "📚Other Resources"
 weight: 700
 layout: docs
 ---

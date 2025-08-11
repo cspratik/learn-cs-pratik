@@ -2,6 +2,7 @@
 title: "Form MSME-1 - Automated Filing with MCA"
 weight: 402
 layout: docs
+description: "Are you looking to bulk upload data to Form MSME-1 of MCA from excel?"
 ---
 
 ### Are you looking to bulk upload data to Form MSME-1 of MCA from excel?
