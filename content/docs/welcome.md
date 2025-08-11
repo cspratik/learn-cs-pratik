@@ -10,7 +10,7 @@ We have tried to simply the understanding of the Compliance under various Corpor
 
 Following are the resources we have added to this repository.
 
-### [Main Object Clauses](/docs/drafts-and-templates/main-obejcts)
+### [Main Object Clauses](docs/drafts-and-templates/main-object-clauses/)
 
 We have tried to add as many main object clauses as possible which are useful for Companies and LLPs. If you want main object clause for any business which is missing in this, please write to us, we will try to add it here.
 
@@ -24,7 +24,7 @@ We have included many templates and formats which are required under various Cor
 
 If you can't find what you need here, kindly fill up this form and let us know what topic you would like us to add in this repository and we will try to add it in this website at the earliest.
 
-### [Trademark Overview](/docs/trademark/trademark-overview)
+### [Trademark Overview](/docs/trademark/overview)
 
 We have also added everything about Trademark including description of each and every classes of trademark with a search facility.
 
